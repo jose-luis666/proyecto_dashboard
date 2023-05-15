@@ -2,7 +2,7 @@
 
 # Proyecto de Análisis de Catálogo de Películas y Series de HBO
 
-<img src="./img/dashboard.png" alt="Dashboard">
+<img src="https://github.com/jose-luis666/proyecto_dashboard/blob/main/IMG/Dashboard.png" alt="Dashboard">
 
 Este proyecto tiene como objetivo analizar el catálogo de películas y series de HBO, y extraer información valiosa acerca de las tendencias y patrones de consumo en la plataforma. 
 
