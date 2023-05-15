@@ -47,9 +47,9 @@ Como era de esperar, Estados Unidos es el país que mayor número de películas 
 
 Sin embargo, los datos que se muestran no reflejan con exactitud las películas y series de HBO en el mundo, ya que cada país tiene un catálogo específico según diferentes factores. Dos de los factores más determinantes son los siguientes:
 
-    Preferencias regionales. Cada sociedad es diferente, y por eso las plataformas consideran preciso adaptar el servicio a cada lugar. El contenido que interesa en Pakistán puede no ser el mismo que interesa en Reino Unido. Por lo tanto, la selección de contenidos que se hace para cada país está estrechamente relacionada con los intereses que muestre su población.
+Preferencias regionales. Cada sociedad es diferente, y por eso las plataformas consideran preciso adaptar el servicio a cada lugar. El contenido que interesa en Pakistán puede no ser el mismo que interesa en Reino Unido. Por lo tanto, la selección de contenidos que se hace para cada país está estrechamente relacionada con los intereses que muestre su población.
 
-    Derechos de autor. Aquí pueden darse dos escenarios. El primero es que haya varios titulares de esos derechos. Esto puede provocar que una película hecha en un estudio de Estados Unidos sea comprada y exhibida en América Latina y no en Estados Unidos. El segundo escenario es que simplemente los derechos de la película o serie no estén a la venta en un país concreto. Esto haría que un título que pudiese verse en España no pudiese verse en Irlanda, por ejemplo.
+Derechos de autor. Aquí pueden darse dos escenarios. El primero es que haya varios titulares de esos derechos. Esto puede provocar que una película hecha en un estudio de Estados Unidos sea comprada y exhibida en América Latina y no en Estados Unidos. El segundo escenario es que simplemente los derechos de la película o serie no estén a la venta en un país concreto. Esto haría que un título que pudiese verse en España no pudiese verse en Irlanda, por ejemplo.
 
 ## Uso del Proyecto
 
